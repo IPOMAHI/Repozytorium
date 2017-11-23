@@ -1,3 +1,5 @@
+zmiana
+
 import random 
 from itertools import chain fwefefwf
 import copy
