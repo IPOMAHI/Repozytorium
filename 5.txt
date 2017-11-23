@@ -242,7 +242,16 @@ def main():
             #    input_msg="Select border size (3 to 7):\n>> ",
             #    error_msg="Incorrect border size!",
             #    validate=lambda s: s in (str(i) for i in range(3, 8))
-            #)
+            
+
+
+df
+g
+fd
+sg
+fds
+h
+ds#)
             size = 3
             g = Game(strategies[int(idx1)], strategies[int(idx2)], int(size))
             g.play()
