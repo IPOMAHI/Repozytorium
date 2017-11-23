@@ -143,7 +143,14 @@ class Game(object):
                 print '\nPlayer %s gave up :(' % self._active.id
                 print 'Player %s won!!!' % self._passive.id
                 return self._passive.id
-            if not self._board.move(x, y, self._active.mark):
+            if not self._b
+df
+h
+dfh
+d
+h
+d
+hoard.move(x, y, self._active.mark):
                 print "Don't even try to cheat!"
                 print 'Player %s won' % self._passive.id
                 return self._passive.id
