@@ -213,7 +213,17 @@ def input(input_msg, error_msg, validate):
     """
     Helper function to get user input.
     """
-    while True:
+    w
+g
+sd
+g
+s
+g
+sd
+gsd
+g
+
+sdhile True:
         string = raw_input(input_msg)
         if validate(string):
             return string
