@@ -48,7 +48,9 @@ class Board(object):
     def check_move(self, x, y):
         """
         Returns True if the move is valid
-        and False otherwise.
+        and False otherwiszmiana
+
+e.
         """
         try:
             if x < 0 or y < 0:
