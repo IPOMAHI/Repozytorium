@@ -212,7 +212,13 @@ def minimax_strategy(board, mark, *args):
 def input(input_msg, error_msg, validate):
     """
     Helper function to get user input.
-    """
+    "hdf
+h
+fd
+h
+df
+h
+df""
     while True:
         string = raw_input(input_msg)
         if validate(string):
