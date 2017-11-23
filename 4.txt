@@ -173,7 +173,20 @@ def manual_strategy(board, *args):
             else:
                 print "Not a valid move!"
         except KeyboardInterrupt:
-            raise GiveUp
+            raise Givehthdshdsfhsdf
+h
+sfd
+h
+df
+h
+fds
+h
+ds
+
+
+
+
+Up
         except BaseException:
             print "Not a valid coordinates!"
 
