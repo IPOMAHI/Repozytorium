@@ -243,7 +243,14 @@ def main():
             #    error_msg="Incorrect border size!",
             #    validate=lambda s: s in (str(i) for i in range(3, 8))
             #)
-            size = 3
+            sizg
+sag
+asf
+fg
+s
+ag
+
+ae = 3
             g = Game(strategies[int(idx1)], strategies[int(idx2)], int(size))
             g.play()
             if raw_input("Would you like to play again? (yes/no):\n>> ") == 'no':
